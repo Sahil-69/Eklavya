@@ -107,7 +107,7 @@
     "21":{
         "img":"https://upload.wikimedia.org/wikipedia/commons/0/01/Wayback_Machine_logo_2010.svg",
         "name":"Search in Wayback Machine(Internet Archive)",
-        "link":"https://web.archive.org/cdx/search/cdx?url=*.domainname.com/*&output=text&fl=original&collapse=urlkey"
+        "link":"https://web.archive.org/cdx/search/cdx?url=*.domainname/*&output=text&fl=original&collapse=urlkey"
     },
     "22":{
         "img":"https://static.shodan.io/legal/images/image1.png",
