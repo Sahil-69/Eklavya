@@ -43,7 +43,7 @@ body{
     display: flex;
     width:50%;
     text-align: center;
-    background-color:rgb(51, 255, 0);
+    background-colorrgba(13, 182, 7, 0.779);
     border-radius: 90px;
 }
 
@@ -71,7 +71,7 @@ body{
     text-align: right;
     margin-top: -23px;
     font-size: 20px;   
-    background-color: rgb(9, 255, 0);
+    background-color: rgba(13, 182, 7, 0.779);
     padding-right:10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -180,7 +180,7 @@ body{
      left: 25%;
  }.footer a{
      text-decoration: none;
-     color:rgb(21, 255, 0);
+     color:rgba(13, 182, 7, 0.779);
  }
     .footer span{
         color:white;
