@@ -26,13 +26,13 @@ body{
 }
 .search{
     object-fit: contain;
-    width:50px;
+    width:30px;
     padding:0 10px;
 }
 .input{
     
     width:100%;
-    margin-left: 20%;   /*  change here */
+    margin-left: 30%;   /*  change here */
     
 }
 .head_button{
